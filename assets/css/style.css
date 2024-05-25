@@ -1,0 +1,43 @@
+
+}
+.container{
+	display: flex;
+	flex-direction: col;
+	flex-wrap: wrap;
+	align-items: center;
+}
+.one{
+	border: 1px solid red;
+	background: teal;
+	padding: 20px;
+	margin: 5px;
+	
+}
+.two{
+	color: white;
+	border: 1px solid red;
+	background: red;
+	padding: 20px;
+	margin: 5px;
+}
+.three{
+	border: 1px solid red;
+	background: green;
+	padding: 20px;
+	margin: 5px;
+	
+}
+.four{
+	border: 1px solid red;
+	background: purple;
+	padding: 20px;
+	margin: 5px;
+	
+}
+.five{
+	border: 1px solid red;
+	background: tomato;
+	padding: 20px;
+	margin: 5px;
+	
+}
